@@ -50,3 +50,37 @@ This project is driven by key business questions and performance metrics aimed a
 ~ What is the average delivery time?
 
 ~ Are there delays or patterns in delivery times across regions?
+
+
+## 🔍 Project Process
+This project followed a step-by-step data analysis workflow to explore and interpret key aspects of e-commerce performance:
+
+1 Data Collection & Import
+
+~ Loaded e-commerce sales data into a Python environment using libraries such as Pandas and NumPy for analysis.
+
+2 Data Cleaning & Preparation
+
+~ Handled missing values, removed duplicates, standardized column formats, and parsed dates for time-series analysis.
+
+~ Created new derived columns (e.g., profit, order month, customer segmentation) for deeper insights.
+
+3 Exploratory Data Analysis (EDA)
+
+~ Conducted univariate and bivariate analysis to understand sales patterns, customer behavior, and product performance.
+
+~ Visualized key trends using Matplotlib and Seaborn to identify relationships and outliers.
+
+4 KPI Evaluation
+
+~ Defined and analyzed core KPIs such as revenue, order count, average order value, top products, and customer lifetime value.
+
+5 Insight Generation
+
+~ Interpreted trends across different dimensions like time, geography, and product categories to support business decisions.
+
+6 Visualization & Reporting
+
+~ Created clear and insightful plots and dashboards to communicate findings effectively to non-technical stakeholders.
+
+
