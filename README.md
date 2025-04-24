@@ -83,4 +83,17 @@ This project followed a step-by-step data analysis workflow to explore and inter
 
 ~ Created clear and insightful plots and dashboards to communicate findings effectively to non-technical stakeholders.
 
+## 📈 Project Insights
+~ Sales performance varied significantly across months, revealing clear seasonal trends and promotional impacts.
+
+~ A small percentage of products and customers accounted for a large portion of total revenue, highlighting the potential for targeted marketing strategies.
+
+~ Certain regions consistently outperformed others, suggesting strong local demand that could be leveraged for regional campaigns.
+
+~ High-profit products were not always the best-sellers, indicating opportunities to align pricing and promotion strategies for better profitability.
+
+~ Delivery delays in specific regions or order types pointed to potential areas for logistics and supply chain optimization.
+
+
+
 
